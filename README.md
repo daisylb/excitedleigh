@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Leigh Brenecki! I'm a developer in Adelaide, Australia, and I'm the chair of [PyConline AU](https://2020.pycon.org.au/).
+I'm Leigh Brenecki! I'm a developer in Adelaide, Australia, and in 2020 I was the chair of [PyConline AU](https://2020.pycon.org.au/).
 
 <!--
 **excitedleigh/excitedleigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
